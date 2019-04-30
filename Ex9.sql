@@ -1,1 +1,2 @@
 -- SQL
+-- 9. Show all people that live in the address that begins with address-4. Make sure this query can be run and include any new people that move in to that address.

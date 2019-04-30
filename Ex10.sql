@@ -1,1 +1,2 @@
 -- SQL
+-- 10. Show the average each person pays for rent each year.
